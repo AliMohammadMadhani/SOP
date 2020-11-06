@@ -1,0 +1,134 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 177px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 900;
+  font-size: 3.75rem;
+  margin: 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1225px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 6rem;
+  font-style: normal;
+  background-image: none;
+  margin: 61px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  letter-spacing: normal;
+  line-height: 39.6px;
+  margin: 20px 180px 0 138px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 1042px;
+  height: 631px;
+  animation-duration: 4500ms;
+  margin: 49px auto 57px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    min-height: 316px;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 1163px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-right: 48px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 781px;
+    margin-right: 80px;
+    margin-left: 38px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 940px;
+    height: 569px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 {
+    min-height: 244px;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 1030px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 436px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 {
+    min-height: 249px;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 921px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 327px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 206px;
+  }
+}
